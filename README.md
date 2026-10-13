@@ -7,9 +7,9 @@
 <table>
     <thead>
         <tr>
-            <td>项目</td>
-            <td>参考</td>
-            <td>备注</td>
+            <th>项目</th>
+            <th>参考</th>
+            <th>备注</th>
         </tr>
     </thead>
     <tbody>
