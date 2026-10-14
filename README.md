@@ -21,7 +21,7 @@
         </tr>
         <tr>
             <td>起笔</td>
-            <td>1. <a href="https://www.bilibili.com/video/BV1sN4y1U7Xf/?spm_id_from=333.788.player.switch&vd_source=2d16dfcf663f73bc0693c3252ab95763">篆隶书方起笔和圆起笔✅发力细节和易错点</a><br><a href="https://www.bilibili.com/video/BV1C8SEBEEhY?spm_id_from=333.788.videopod.sections&vd_source=2d16dfcf663f73bc0693c3252ab95763"> 2. 书法干货｜篆书、隶书、楷书 各种横画收笔怎么写～天津话解说</a></td>
+            <td>1. <a href="https://www.bilibili.com/video/BV1sN4y1U7Xf/?spm_id_from=333.788.player.switch&vd_source=2d16dfcf663f73bc0693c3252ab95763">篆隶书方起笔和圆起笔✅发力细节和易错点</a><br>2. <a href="https://www.bilibili.com/video/BV1C8SEBEEhY?spm_id_from=333.788.videopod.sections&vd_source=2d16dfcf663f73bc0693c3252ab95763"> 书法干货｜篆书、隶书、楷书 各种横画收笔怎么写～天津话解说</a></td>
             <td>(26.10.12)主要学习逆锋、回锋。<br>刷到很多人讨论笔法"切、顶、翻"，个人比较赞同：<a href="https://www.bilibili.com/video/BV1Hv4y1R7ux">崔寒柏老师谈笔法"切、顶、翻"</a></td>
         </tr>
         <tr>
