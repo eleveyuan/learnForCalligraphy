@@ -27,7 +27,6 @@
         <tr>
             <td>收笔</td>
             <td><a href="https://www.bilibili.com/video/BV1C8SEBEEhY?spm_id_from=333.788.videopod.sections&vd_source=2d16dfcf663f73bc0693c3252ab95763">书法干货｜篆书、隶书、楷书 各种横画收笔怎么写～天津话解说</a><td>
-            <td></td>
         </tr>
     </tbody>
 </table>
