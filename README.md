@@ -9,7 +9,7 @@
         <tr>
             <th>项目</th>
             <th>参考</th>
-            <th>备注</th>
+            <th>备注/笔记</th>
         </tr>
     </thead>
     <tbody>
@@ -22,7 +22,12 @@
         <tr>
             <td>起笔</td>
             <td>1. <a href="https://www.bilibili.com/video/BV1sN4y1U7Xf/?spm_id_from=333.788.player.switch&vd_source=2d16dfcf663f73bc0693c3252ab95763">篆隶书方起笔和圆起笔✅发力细节和易错点</a><br>2. <a href="https://www.bilibili.com/video/BV1C8SEBEEhY?spm_id_from=333.788.videopod.sections&vd_source=2d16dfcf663f73bc0693c3252ab95763"> 书法干货｜篆书、隶书、楷书 各种横画收笔怎么写～天津话解说</a></td>
-            <td>(26.10.12)主要学习逆锋、回锋，同时因为初学，所以练习中注意减少手抖，让线条看起来更加平稳。<br>刷到很多人讨论笔法"切、顶、翻"，个人比较赞同：<a href="https://www.bilibili.com/video/BV1Hv4y1R7ux">崔寒柏老师谈笔法"切、顶、翻"</a></td>
+            <td>
+                (26.10.12)主要学习逆锋、回锋，同时因为初学，所以练习中注意减少手抖，让线条看起来更加平稳。
+                <br> 1. 在练习时发现<u>横画</u>主要是移动肩关节，<u>竖画</u>需要移动肩关节和肘关节，使得手更容易抖，所以个人横竖练习比例4:6
+                <br> 2. 刷到很多人讨论笔法"切、顶、翻"，个人比较赞同：<a href="https://www.bilibili.com/video/BV1Hv4y1R7ux">崔寒柏老师谈笔法"切、顶、翻"</a>
+                <br> 3. 对于拉线条，个人试了兼毫和羊毫，，因为最开始买的毛笔是兼毫，练习回锋老是原地托马斯，然后果断买了只羊毫(26.10.15到货)，羊毫回锋/拉线条更舒适兼毫对于我这初学阶段还是太弹了
+            </td>
         </tr>
         <tr>
             <td>收笔</td>
