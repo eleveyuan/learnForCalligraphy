@@ -1,6 +1,13 @@
 ## learnForCalligraphy
 学习书法，记住来时路。培养一门休息时用来放松的爱好
 
+### 工具
+
+| 毛笔 | 墨条 | 纸张 | 砚台 | 镇尺 | 墨夹 | 毛毡垫 |
+| - | - | - | - | - | - | - |
+| <img src="./img/brush.png" width="120px"> | <img src="./img/inkstick.png" width="120px"> | <img src="./img/paper.png" width="120px"> | <img src="./img/inkstone.png" width="120px"> | <img src="./img/paperweight.png" width="120px"> | <img src="./img/inkstoneClamp.png" width="120px">  | <img src="./img/feltMat.png" width="120px"> |
+
+
 ### 纸张选取
 
 字越小越求精细，用纸越熟；字越大越求气势，用纸越生
