@@ -69,7 +69,7 @@
         <tr>
             <td>写字</td>
             <td><a href="https://www.bilibili.com/video/BV1sN4y1U7Xf">陈忠建老师讲解的吴让之篆书</a></td>
-            <td>(26.10.18始)终于敢迈出第一步，写第一个字(output/1firstCHAR.jpg)了，和写单个笔画相比需要考虑字笔画之间的结构了，刚开始写字又回到蹒跚学步的感觉了。</td>
+            <td>(26.10.19始)终于敢迈出第一步，写第一个字(output/1firstCHAR.jpg)了，和写单个笔画相比需要考虑字笔画之间的结构了，刚开始写字又回到蹒跚学步的感觉了。</td>
         </tr>
     </tbody>
 </table>
